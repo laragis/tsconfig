@@ -1,1 +1,1 @@
-# tsconfig
+# TSConfig

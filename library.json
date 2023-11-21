@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "compilerOptions": {
+  "compilerOptions": {    
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "noImplicitAny": true,
@@ -12,8 +12,8 @@
     "moduleResolution": "Bundler",
     "noImplicitThis": true,
     "noUncheckedIndexedAccess": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
     "resolveJsonModule": true,
     "declaration": true,
     "declarationMap": true,

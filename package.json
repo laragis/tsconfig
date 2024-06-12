@@ -1,0 +1,11 @@
+{
+  "name": "@laragis/tsconfig",
+  "version": "0.0.1",
+  "description": "Centralized Recommendations for TSConfig bases",
+  "author": "Truong Thanh Tung",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laragis/tsconfig.git"
+  }
+}
